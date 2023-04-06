@@ -1,4 +1,4 @@
-export function process(inputData, output) {
+export function process(_1, _2, output) {
     output.colorPalette = [
         "#069F73",
         "#CC79A7",
