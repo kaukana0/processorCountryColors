@@ -1,6 +1,6 @@
 export function process(_1, _2, output) {
     output.colorPalette = [
-        '#388AE2',
+//        '#388AE2',  too similar to EU blue
         '#B38F00',
         '#208486',
         '#AA5F18',
